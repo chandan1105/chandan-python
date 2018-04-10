@@ -1,3 +1,4 @@
-#program of random
+#random
 import random
-print(random.randint(1,100))
+a= random.randint(1,100)
+print (a)

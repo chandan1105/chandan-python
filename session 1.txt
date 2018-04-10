@@ -1,0 +1,5 @@
+#session 1
+creating github account
+basic operations
+using variables to program
+usage of prompt and different files
